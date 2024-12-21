@@ -4,7 +4,7 @@
   "description": "A simple Facebook Webhook verification server",
   "main": "verify.js",
   "scripts": {
-    "start": "node verify.js"
+    "start": "node Verify.js"
   },
   "keywords": [
     "facebook",
